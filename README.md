@@ -1,2 +1,2 @@
 # kafkastreams
-simple kafka streams example
+simple kafka streams example with github workflow
